@@ -1,0 +1,2 @@
+serviceClass: edu.pdx.cs410J.np4.client.AirlineService
+path: 8538B0B8B4CD6131FAF47650891B735F.gwt.rpc

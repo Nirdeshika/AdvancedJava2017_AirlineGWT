@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: Airline GWT Application
+Implementation-Version: Summer2017
+Archiver-Version: Plexus Archiver
+Built-By: priyathamanisetty
+Implementation-Vendor-Id: edu.pdx.cs410J.np4
+Built-On: 2017-08-03T17:20:16.361-0700
+Implementation-Vendor: Portland State University
+Built-From-Revision: noScmFound
+Built-From-Branch: master
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://www.cs.pdx.edu/~whitlock/gwt-parent/airline
+ -gwt
+

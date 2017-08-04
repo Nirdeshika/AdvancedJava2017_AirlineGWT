@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Airline GWT Integration Tests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.879 sec
+testClickingShowDeclaredExceptionButtonAlertsWithExpectedMessage(edu.pdx.cs410J.np4.client.AirlineGwtIT)  Time elapsed: 20.086 sec
+testClickingShowClientSideExceptionButtonAlertsWithExpectedMessage(edu.pdx.cs410J.np4.client.AirlineGwtIT)  Time elapsed: 0.58 sec
+testClickingShowAirlineButtonAlertsWithAirlineInformation(edu.pdx.cs410J.np4.client.AirlineGwtIT)  Time elapsed: 0.605 sec
+testClickingShowUndeclaredExceptionButtonAlertsWithExpectedMessage(edu.pdx.cs410J.np4.client.AirlineGwtIT)  Time elapsed: 0.591 sec

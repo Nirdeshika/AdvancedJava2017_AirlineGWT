@@ -1,0 +1,3 @@
+# Module airline
+# RPC service class, partial path of RPC policy file
+edu.pdx.cs410J.np4.client.AirlineService, 8538B0B8B4CD6131FAF47650891B735F.gwt.rpc
