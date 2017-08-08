@@ -9,19 +9,9 @@ import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;
 @RemoteServiceRelativePath("airline")
 public interface AirlineService extends RemoteService {
 
-  /**
-   * Returns the current date and time on the server
-   */
-  Airline getAirline();
+    Airline getAirline(String nameOfTheAirline) throws IllegalStateException;
 
-  /**
-   * Always throws an undeclared exception so that we can see GWT handles it.
-   */
-  void throwUndeclaredException();
+    void addAFlightToAirline(String nameOfTheAirline, Flight flight) throws IllegalArgumentException;
 
-  /**
-   * Always throws a declared exception so that we can see GWT handles it.
-   */
-  void throwDeclaredException() throws IllegalStateException;
-
+    Airline searchFlights(String nameOfTheAirline, String source, String destination) throws IllegalStateException;
 }
